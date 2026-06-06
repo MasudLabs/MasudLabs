@@ -1,57 +1,58 @@
-# Hi there, I'm Abdullah Al Masud 👋
+# Hi, I'm Abdullah Al Masud 👋
 
-**Amazon PPC Specialist | Data-Driven Advertising | E-commerce Growth**
+**Amazon PPC Specialist | Amazon Advertising | PPC Optimization | E-commerce Growth**
 
-I'm a passionate Amazon Advertising professional focused on building efficient, scalable, and profitable PPC campaigns. I specialize in keyword strategy, search term analysis, bid optimization, and automation to help sellers maximize ROI.
+Amazon PPC VA and Advertising Specialist helping sellers scale profitably through data-driven campaigns. I specialize in **Sponsored Products**, keyword research, negative keywords, search term analysis, bid optimization, and automation to improve ACoS and ROAS.
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently Building
 
-- Building practical Python tools for Amazon PPC optimization
-- Developing a professional portfolio of automation scripts and campaign frameworks
-- Mastering advanced Amazon Advertising metrics and bidding strategies
+- Practical Python tools for Amazon PPC automation and optimization
+- Professional portfolio showcasing real Amazon Advertising workflows
+- Advanced bidding strategies and campaign architecture systems
 
-## 🎯 Focus Areas
+## 🎯 Core Expertise
 
-- **Keyword Research & Negative Keyword Strategy**
-- **Search Term Report Analysis & Insights**
-- **ACoS / ROAS Optimization & Bid Management**
-- **Campaign Structure & Architecture**
-- **Automation & Reporting Scripts**
+| Area                              | Focus                                      |
+|-----------------------------------|--------------------------------------------|
+| **Keyword Strategy**              | Research, Negative Keywords, Long-tail     |
+| **Search Term Analysis**          | Performance insights, Wasted spend reduction |
+| **Bid & Budget Optimization**     | ACoS/ROAS targeting, Dynamic & Rule-based bidding |
+| **Campaign Architecture**         | Brand Defense, Category, Competitor, Long-tail |
+| **Automation & Reporting**        | Python scripting, Performance dashboards   |
 
-## 📊 Skills & Tools
+## 📊 Skills & Technologies
 
-| Category              | Skills & Tools                              |
-|-----------------------|---------------------------------------------|
-| **Amazon Advertising**    | Sponsored Products, Sponsored Brands, Sponsored Display, Campaign Optimization |
-| **Analysis & Optimization** | ACoS, ROAS, Search Term Analysis, Negative Keywords, Bid Strategies |
-| **Automation**            | Python, Pandas, Scripting, Report Automation |
-| **Other**                 | Data Analysis, Process Documentation, Remote VA Workflows |
+- **Amazon Advertising**: Sponsored Products, Sponsored Brands, Sponsored Display
+- **Optimization**: ACoS, ROAS, CTR, CVR, TACoS, Search Term Reports
+- **Automation**: Python, Pandas, Scripting, Report Generation
+- **Other**: Remote VA workflows, Process documentation, Data-driven decision making
 
 ## 📁 Featured Project
 
-**[🚀 MasudLaBs PPC Portfolio](https://github.com/MasudLabs/MasudLaBs-PPC-Portfolio)**
+**[🚀 MasudLaBs Amazon PPC Portfolio](https://github.com/MasudLabs/MasudLaBs-PPC-Portfolio)**
 
-A collection of ready-to-use Python tools built for Amazon PPC Specialists and Virtual Assistants:
+A growing collection of ready-to-use tools built specifically for **Amazon PPC Specialists** and **Amazon Ads Virtual Assistants**:
 
-- Keyword Research & Negative Keyword Generator
+- Keyword Research Tool & Negative Keyword Generator
 - Search Term Report Analyzer
-- ACoS/ROAS Calculator + Optimizer
+- ACoS / ROAS Calculator + Optimizer
 - Bid Strategy Simulator
-- Campaign Structure Templates
-- Automated Performance Reporting
+- Campaign Structure Templates (with documentation)
+- Automated Performance Reporting Script
 
 ---
 
-## 📇 Let's Connect
+## 📇 Open to Opportunities
 
+- **Roles**: Amazon PPC VA, Amazon Advertising Specialist, PPC Manager
+- **Work Type**: Remote / Freelance / Full-time
+- **Locations**: Open to USA, UK, Canada, Australia, UAE, and global remote roles
 - **Email**: abdullahalmasd@gmail.com
-- **Location**: Bangladesh (Open to remote opportunities)
-- **Target Roles**: Amazon PPC VA / Ads Specialist (USA, UK, Canada, Australia, UAE)
 
-I'm actively looking for remote opportunities where I can contribute to data-driven advertising growth.
+Actively seeking remote opportunities to contribute to profitable Amazon advertising growth.
 
 ---
 
-> *"Building tools that save time and improve campaign performance."*
+> *Building tools that save time and improve campaign performance for Amazon sellers.*
