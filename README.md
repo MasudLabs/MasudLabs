@@ -48,6 +48,7 @@ A growing collection of ready-to-use tools built specifically for **Amazon PPC S
 
 - **Roles**: Amazon PPC VA, Amazon Advertising Specialist, PPC Manager
 - **Work Type**: Remote / Freelance / Full-time
+- **WhatsApp:** [💬 Chat on WhatsApp](https://wa.me/8801821818183)
 - **Locations**: Open to USA, UK, Canada, Australia, UAE, and global remote roles
 - **Email**: abdullahalmasd@gmail.com
 
